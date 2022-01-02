@@ -4,6 +4,7 @@
 4. **Skills:** Little knowledge are in C, Python, PHP.
 5. **Code examples:** [My GitHub](https://github.com/Decurro)
 6. **Experience:**  [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/)
-7. **Education:** 1. College of Civil Aviation;
-                  2. KAI 1 course - Information systems and technologies
+7. **Education:** 
+    1. College of Civil Aviation;
+    2. KAI 1 course - Information systems and technologies
 8. **English:** А2-B1
