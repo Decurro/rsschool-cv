@@ -1,1 +1,1 @@
-https://decurro.github.io/rsschool-cv/cvg
+https://decurro.github.io/rsschool-cv/cv
